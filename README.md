@@ -22,7 +22,7 @@ I have 2 years working experience as a full-stack web developer where I accumula
 - [LinkedIN][linked]
 - [Kaggle][kaggle]
 
-[mail]:<mailto:name@domain>
+[mail]:<mailto:zolotarevaekaterina567@gmail.com>
 [linked]: <https://www.linkedin.com/in/zolotareva-ekaterina/>
 [kaggle]: <https://www.kaggle.com/zozo567>
 
