@@ -2,6 +2,9 @@
 
 I'm Kate. A data scientist with broad academic background in statistics, mathematics, programming and data science. I am working as a Data Analyst/Scientist and have successfully completed projects and published research paper.
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zozo567)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Following are some of the scope of the project I worked on:
 - Cryptocurrency trading
 - NLP
