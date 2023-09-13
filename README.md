@@ -2,8 +2,10 @@
 
 I'm Kate. A data scientist with broad academic background in statistics, mathematics, programming and data science. I am working as a Data Analyst/Scientist and have successfully completed projects and published research paper.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zozo567&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zozo567)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zozo567&hide=html,jupyter-notebook,Jupyter+Notebook&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Following are some of the scope of the project I worked on:
 - Cryptocurrency trading
